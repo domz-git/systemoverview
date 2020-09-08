@@ -1,0 +1,5 @@
+TOTAL CPU USAGE: 11%,CORE#1: 7 %,CORE#2: 7 %,CORE#3: 21 %,CORE#4: 8 %,Free RAM: 3002 MB,System Up Time: 
+0 day/s
+4 hour/s
+235 minute/s
+14076 second/s,Active Processes: 65,Threads: 1097

@@ -1,0 +1,45 @@
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\bin\Debug\CPU Counter.exe
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\bin\Debug\CPU Counter.pdb
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\obj\x86\Debug\CPU_Counter.Form1.resources
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\obj\x86\Debug\CPU_Counter.Properties.Resources.resources
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\obj\x86\Debug\CPU Counter.csproj.GenerateResource.Cache
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\obj\x86\Debug\CPU Counter.exe
+C:\Users\Jasmin\AppData\Local\Temporary Projects\CPU Counter\obj\x86\Debug\CPU Counter.pdb
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.exe
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.pdb
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\bin\Debug\CPU Counter.exe
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\bin\Debug\CPU Counter.pdb
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form1.resources
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Properties.Resources.resources
+C:\Users\Jasmin\Documents\Visual Studio 2010\Projects\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csproj.GenerateResource.Cache
+C:\Users\Jasmin\documents\visual studio 2010\Projects\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csprojResolveAssemblyReference.cache
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.exe
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.pdb
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\bin\Debug\CPU Counter.exe
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\bin\Debug\CPU Counter.pdb
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form1.resources
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Properties.Resources.resources
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csprojResolveAssemblyReference.cache
+\\REA\UDESKTOP$\dominik.filipovic\Desktop\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csproj.GenerateResource.Cache
+G:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.exe
+G:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.pdb
+G:\New folder (3)\CPU Counter\CPU Counter\bin\Debug\CPU Counter.exe
+G:\New folder (3)\CPU Counter\CPU Counter\bin\Debug\CPU Counter.pdb
+G:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csprojResolveAssemblyReference.cache
+G:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form1.resources
+G:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Properties.Resources.resources
+G:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csproj.GenerateResource.Cache
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.exe
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.pdb
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csprojResolveAssemblyReference.cache
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form1.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Properties.Resources.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU Counter.csproj.GenerateResource.Cache
+E:\New folder (3)\CPU Counter\CPU Counter\bin\Debug\CPU Counter.exe
+E:\New folder (3)\CPU Counter\CPU Counter\bin\Debug\CPU Counter.pdb
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form2.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form3.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form4.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form5.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form6.resources
+E:\New folder (3)\CPU Counter\CPU Counter\obj\x86\Debug\CPU_Counter.Form7.resources
